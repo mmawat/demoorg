@@ -1,0 +1,14 @@
+C:\Manish\playground\demo\demo2\demoorg\bin\Debug\netcoreapp2.2\demoorg.deps.json
+C:\Manish\playground\demo\demo2\demoorg\bin\Debug\netcoreapp2.2\demoorg.runtimeconfig.json
+C:\Manish\playground\demo\demo2\demoorg\bin\Debug\netcoreapp2.2\demoorg.runtimeconfig.dev.json
+C:\Manish\playground\demo\demo2\demoorg\bin\Debug\netcoreapp2.2\demoorg.dll
+C:\Manish\playground\demo\demo2\demoorg\bin\Debug\netcoreapp2.2\demoorg.pdb
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.csprojAssemblyReference.cache
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.csproj.CoreCompileInputs.cache
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.RazorAssemblyInfo.cache
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.RazorAssemblyInfo.cs
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.AssemblyInfoInputs.cache
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.AssemblyInfo.cs
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.RazorTargetAssemblyInfo.cache
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.dll
+C:\Manish\playground\demo\demo2\demoorg\obj\Debug\netcoreapp2.2\demoorg.pdb
